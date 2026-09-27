@@ -1,0 +1,6 @@
+{
+  "name": "PlantaSana - Clínica Botánica",
+  "description": "Plataforma de diagnóstico agronómico y fitosanitario para plantas de interior con aval profesional del Ing. Agr. Emmanuel Hick (MP 6254).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
